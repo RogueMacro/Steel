@@ -1,0 +1,13 @@
+site_name: Steel Documentation
+docs_dir: "Content"
+home: "Index.md"
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    accent: amber
+  features:
+    - navigation.instant
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
